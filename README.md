@@ -1,6 +1,6 @@
 # Getting Started:
 
-Ami coding prin na project [Server API](https://still-tundra-11173.herokuapp.com/).
+Ami coding pari na project [Server API](https://still-tundra-11173.herokuapp.com/).
 
 ## How to use?
 
